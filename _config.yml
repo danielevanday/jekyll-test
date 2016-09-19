@@ -4,12 +4,12 @@ title: "Think"
 title2: "space" # default: ""
 description: "easy thinking thinkspace"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://danielevanday.github.io/thinkspace/ # site url
+url: http://danielevanday.github.io/ # site url
 baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://danielevanday.github.io/
+repo: https://github.com/danielevanday/danielevanday.github.io
 disqus_shortname: ""
 twitter_username: ""
 comments: true
