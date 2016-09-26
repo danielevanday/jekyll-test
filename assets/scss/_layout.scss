@@ -78,7 +78,7 @@ hr {
   .author-name {
     display: inline-block;
     padding: 0 .2em;
-    background: lighten($light-gray-color, 15%)
+    background: darken($wafer-color, 35%)
   }
 
   a {
@@ -127,7 +127,7 @@ hr {
 }
 
 .post-list {
-  background-color: lighten($light-gray-color, 17%);
+  background-color: darken($wafer-color, 35%);
 }
 
 .category-title {
@@ -164,11 +164,11 @@ hr {
 }
 
 .post-meta {
-  color: $medium-gray-color;
+  color: $wafer-color;
   text-transform: uppercase;
   display: inline-block;
   letter-spacing: 1px;
-  font-size: rem(14);
+  font-size: rem(16);
 }
 
 .post-link,
@@ -229,7 +229,7 @@ hr {
   small {
     display: block;
     font-size: rem(12);
-    color: darken($medium-gray-color, 10%);
+    color: lighten($wafer-color, 17%);
   }
 
   .block {

@@ -6,55 +6,55 @@ description: "order of operation"
 keywords: "poem, blog post, INLS 161"
 ---
 
-Get a commit to push up
-How ever hyper your text 
-Can be a bit vexing
-Sorting your log
-A foggy haze of commits
-badly titled
+Get a commit to push up<br />
+How ever hyper your text <br />
+Can be a bit vexing <br />
+Sorting your log <br />
+A foggy haze of commits <br />
+Badly titled <br />
 
-Entitlements reverted
-Near crisis averted
-*Italicized* or _emphasized_
-Words mean little on bad color schemes
+Entitlements reverted <br />
+Near crisis averted <br />
+*Italicized* or _emphasized_ <br />
+Words mean little on bad color schemes <br />
 
-Working tree clean, lean
-Far from clunky
-The origin is the master
-But it hasn't always been that way
+Working tree clean, lean <br />
+Far from clunky <br />
+The origin is the master <br />
+But it hasn't always been that way <br />
 
-Operating remotely
-Possesive of your server
-Client targeting ferver
-Do you git merging?
+Operating remotely <br />
+Possesive of your server <br />
+Client targeting ferver <br />
+Do you git merging? <br />
 
-Eternal linux kernal 
-Never forgets essential utensils
-Fork, spoon, and knife
-A heaping supper
-Of markdown and markup
+Eternal linux kernal <br />
+Never forgets essential utensils <br />
+Fork, spoon, and knife <br />
+A heaping supper <br />
+Of markdown and markup <br />
 
-Repository story 
-Infinite style 
-Cascades of options
-Wardrobe saturated 
-Still growing
-Parallel, the same circuitry 
-As developer knowledge
+Repository story <br /> 
+Infinite style <br /> 
+Cascades of options <br />
+Wardrobe saturated <br />
+Still growing <br />
+Parallel, the same circuitry <br /> 
+As developer knowledge <br />
 
-Bank out a clone
-Whose repo do you own?
-Pay interest, or not
-This space isn't square anymore
+Bank out a clone <br />
+Whose repo do you own? <br />
+Pay interest, or not <br />
+This space isn't square anymore <br />
 
-Moving full circle
-Only squares use bad syntax
-Lax from lack of coding 
-Slow servers on codeine 
+Moving full circle <br />
+Only squares use bad syntax <br />
+Lax from lack of coding <br />
+Slow servers on codeine <br />
 
-Think creative maker space 
-All irons in the fire
-Cloud nine or higher
-Branched to the rigourous buyer.
+Think creative maker space <br />
+All irons in the fire <br />
+Cloud nine or higher <br />
+Branched to the rigourous buyer. <br />
 
 <div class="divider"></div> 
