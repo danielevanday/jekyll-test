@@ -34,8 +34,8 @@ author:
   bio      : "."
   thumb    : /images/author.jpg
   email    : danielevanday@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
+  url      : http://danielevanday.github.io
+  github   : http://github.com/danielevanday
   twitter  : 
   facebook : 
   linkedin : 
@@ -43,7 +43,7 @@ author:
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: 
 
 gems:
   - bourbon
