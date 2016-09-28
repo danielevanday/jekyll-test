@@ -27,7 +27,6 @@ $light-gray-color: #ccc;
 $venus-color: #998099;
 $wafer-color: #e1d7d2;
 $indian-red-color: #CD5C5C;
-$light-purple: #9999ff;
 
 // Font Colors
 $base-font-color: rgba($wafer-color, 1);
@@ -37,7 +36,7 @@ $base-border-color: $light-gray-color;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: $light-purple;
+$base-background-color: $indian-red-color;
 $secondary-background-color: tint($venus-color, 80%);
 
 // Forms
